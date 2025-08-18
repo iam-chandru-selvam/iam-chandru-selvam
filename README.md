@@ -47,7 +47,7 @@
 ### 💻 LeetCode Progress
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Druchan_03?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 ---
@@ -86,8 +86,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iam-chandru-selvam/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/heyim_shree)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lshreechaithanya@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Shreechaithanya)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandrusurya523@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Druchan_03)
 
 </div>
 
