@@ -32,22 +32,22 @@
 ### 📈 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LShreeChaithanya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LShreeChaithanya&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iam-chandru-selvam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-chandru-selvam&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=LShreeChaithanya&theme=tokyonight&hide_border=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=iam-chandru-selvam&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LShreeChaithanya&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-chandru-selvam&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 ### 💻 LeetCode Progress
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Shreechaithanya?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 ---
@@ -58,7 +58,7 @@
 
 ### Snake eating my contributions 🐍
 
-<img src="https://raw.githubusercontent.com/LShreeChaithanya/LShreeChaithanya/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/iam-chandru-selvam/iam-chandru-selvam/output/snake.svg" alt="Snake animation" />
 
 ### Pacman consuming commits! 👾
 
@@ -75,7 +75,7 @@
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LShreeChaithanya&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=iam-chandru-selvam&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </div>
 
 ---
@@ -97,7 +97,7 @@
   
 ### 💭 *"The best way to predict the future is to create it."*
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=LShreeChaithanya.LShreeChaithanya&style=flat-square&color=0088cc)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=iam-chandru-selvam.iam-chandru-selvam&style=flat-square&color=0088cc)
 
 ⭐ **If you like my work, consider starring my repositories!** ⭐
 
