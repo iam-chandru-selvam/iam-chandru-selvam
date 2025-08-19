@@ -31,8 +31,15 @@
 
 ## 💻 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,mongodb,mysql,docker,git,github,vscode,intellij" />
+  <!-- Skillicons supported icons -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,mongodb,mysql,docker,git,github,vscode" />
+
+  <!-- Custom icons -->
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" width="48" height="48" alt="IntelliJ IDEA" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="48" height="48" alt="Spring Boot" />
 </div>
+
 
 ---
 
