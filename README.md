@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
   
   # 👋 Hey, I'm Chandru S  
-  ### CSE Undergrad | Java Developer | MERN Stack Enthusiast | Cloud Learner
+  ### CSE Undergrad | Java Developer | MERN Stack Enthusiast | Data Analyst
 </div>
 
 ---
