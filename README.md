@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
   
   # 👋 Hey, I'm Chandru S  
-  ### ☕ I turn coffee into scalable applications 🚀
 </div>
 
 ---
