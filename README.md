@@ -20,10 +20,24 @@
 ## 🌐 Connect with Me
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iam-chandru-selvam/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_druchan__official_/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Druchan_03)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandrusurya523@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/iam-chandru-selvam/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/_druchan__official_/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/Druchan_03" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/50/FFA116/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:chandrusurya523@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png"/>
+  </a>
+</p>
+
 
 </div>
 
