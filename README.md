@@ -20,23 +20,24 @@
 ## 🌐 Connect with Me
 <div align="center">
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/iam-chandru-selvam/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.instagram.com/_druchan__official_/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://leetcode.com/Druchan_03" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/50/FFA116/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:chandrusurya523@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png"/>
+    <img src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/google.svg" height="35" />
   </a>
 </p>
+
 
 
 
