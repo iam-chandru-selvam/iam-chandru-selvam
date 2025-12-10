@@ -22,21 +22,22 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iam-chandru-selvam/" target="_blank">
-    <img src="https://img.icons8.com/?size=512&id=13930&format=png" height="45"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" height="35" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/_druchan__official_/" target="_blank">
-    <img src="https://img.icons8.com/?size=512&id=32323&format=png" height="45"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" height="35" />
   </a>
   &nbsp;
   <a href="https://leetcode.com/Druchan_03" target="_blank">
-    <img src="https://img.icons8.com/?size=512&id=lZKORd7uHO3q&format=png" height="45"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/code.png" height="35" />
   </a>
   &nbsp;
-  <a href="mailto:chandrusurya523@gmail.com">
-    <img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" height="45"/>
+  <a href="mailto:chandrusurya523@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" height="35" />
   </a>
 </p>
+
 
 
 
