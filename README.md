@@ -20,21 +20,21 @@
 ## 🌐 Connect with Me
 <div align="center">
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/iam-chandru-selvam/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
+    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/_druchan__official_/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" />
+    <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/Druchan_03" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="40" />
+    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/50/FFA116/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:chandrusurya523@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" />
+    <img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png"/>
   </a>
 </p>
 
