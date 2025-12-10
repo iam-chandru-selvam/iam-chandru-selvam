@@ -20,23 +20,24 @@
 ## 🌐 Connect with Me
 <div align="center">
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/iam-chandru-selvam/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" style="margin-right: 15px;" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
-  
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/_druchan__official_/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50" style="margin-right: 15px;" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/Druchan_03" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" height="50" style="margin-right: 15px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" height="50"/>
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:chandrusurya523@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
 </p>
+
 
 
 
