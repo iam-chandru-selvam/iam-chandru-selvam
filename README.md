@@ -30,14 +30,13 @@
   </a>
   &nbsp;
   <a href="https://leetcode.com/Druchan_03" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LeetCode-Dark.svg" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" height="45"/>
   </a>
   &nbsp;
   <a href="mailto:chandrusurya523@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
 </p>
-
 
 
 
