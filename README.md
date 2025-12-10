@@ -65,9 +65,14 @@
 ---
 
 ## 📊 GitHub Stats
+<br/>
+
 <div align="center">
-  <img src="https://githubcard.com/iam-chandru-selvam.svg?d=dark_night_premium" alt="GitHub Profile Card"/>
+  <img src="https://githubcard.com/iam-chandru-selvam.svg" />
 </div>
+
+<br/>
+
 
 
 
