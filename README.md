@@ -20,18 +20,24 @@
 ## 🌐 Connect with Me
 <div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/iam-chandru-selvam/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/iam-chandru-selvam/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
   &nbsp;
-  <a href="https://www.instagram.com/_druchan__official_/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
+  <a href="https://www.instagram.com/_druchan__official_/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+  </a>
   &nbsp;
   <a href="https://leetcode.com/Druchan_03" target="_blank">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LeetCode-Dark.svg" height="50"/>
-</a>
-
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LeetCode-Dark.svg" height="50"/>
+  </a>
   &nbsp;
-  <a href="mailto:chandrusurya523@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
+  <a href="mailto:chandrusurya523@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
 </p>
+
 
 
 
