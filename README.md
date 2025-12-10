@@ -20,23 +20,24 @@
 ## 🌐 Connect with Me
 <div align="center">
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/iam-chandru-selvam/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" />
+    <img src="https://img.icons8.com/?size=512&id=13930&format=png" height="45"/>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/_druchan__official_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" />
+    <img src="https://img.icons8.com/?size=512&id=32323&format=png" height="45"/>
   </a>
   &nbsp;
   <a href="https://leetcode.com/Druchan_03" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35" />
+    <img src="https://img.icons8.com/?size=512&id=lZKORd7uHO3q&format=png" height="45"/>
   </a>
   &nbsp;
-  <a href="mailto:chandrusurya523@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/google.svg" height="35" />
+  <a href="mailto:chandrusurya523@gmail.com">
+    <img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" height="45"/>
   </a>
 </p>
+
 
 
 
