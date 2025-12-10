@@ -68,14 +68,12 @@
 <br/>
 
 <div align="center">
-  <img src="https://githubcard.com/iam-chandru-selvam.svg" />
+  <p align="center">
+  <img src="https://streak-stats.demolab.com?user=iam-chandru-selvam&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 </div>
 
 <br/>
-
-
-
-
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=iam-chandru-selvam&theme=tokyonight&hide_border=true"/>
