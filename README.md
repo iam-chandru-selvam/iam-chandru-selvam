@@ -22,22 +22,22 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/iam-chandru-selvam/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LeetCode-Light.svg" height="45"/>
-
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/_druchan__official_/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
   &nbsp;
   <a href="https://leetcode.com/Druchan_03" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LeetCode-Light.svg" height="45"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LeetCode-Dark.svg" height="45"/>
   </a>
   &nbsp;
   <a href="mailto:chandrusurya523@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
 </p>
+
 
 
 
