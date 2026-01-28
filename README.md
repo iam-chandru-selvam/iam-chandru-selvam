@@ -57,10 +57,10 @@
 ---
 
 ## 🚀 Featured Projects
+- [**AI Fitness Microservices**](https://github.com/iam-chandru-selvam/ai-fitness-microservices) → AI based Fitness recommendations.
 - [**Student Grade Calculator**](https://github.com/iam-chandru-selvam/Student-Grade-Calculator) → Java OOP-based grading system.  
-- [**Real Time Chat App**](https://github.com/iam-chandru-selvam/Real-Time-Chat-App) → MERN stack + WebSockets for instant messaging.  
-- [**Data Analyst Portfolio**](https://github.com/iam-chandru-selvam/Data-Analyst-Portfolio) → Power BI dashboards & insights.  
-- [**Patterns in Java**](https://github.com/iam-chandru-selvam/Patterns-in-Java) → Collection of pattern-printing problems in Java.  
+- [**Real Time Chat App**](https://github.com/iam-chandru-selvam/Real-Time-Chat-App) → MERN stack + WebSockets for instant messaging.   
+- [**Dockerized Node.js Application**](https://github.com/iam-chandru-selvam/docker-node-app) → Simple Node.js + Express application containerized using Docker. 
 
 ---
 
