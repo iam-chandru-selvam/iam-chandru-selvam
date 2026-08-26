@@ -57,7 +57,7 @@
 ---
 
 ## 🚀 Featured Projects
-- [**SkillGraph**]([https://github.com/iam-chandru-selvam/ai-fitness-microservices](https://github.com/iam-chandru-selvam/Skillgraph)) → SkillGraph — Skill & Career Knowledge Graph
+- [**SkillGraph**](https://github.com/iam-chandru-selvam/Skillgraph) → SkillGraph — Skill & Career Knowledge Graph
 - [**AI Fitness Microservices**](https://github.com/iam-chandru-selvam/ai-fitness-microservices) → AI based Fitness recommendations.
 - [**Student Grade Calculator**](https://github.com/iam-chandru-selvam/Student-Grade-Calculator) → Java OOP-based grading system.  
 - [**Real Time Chat App**](https://github.com/iam-chandru-selvam/Real-Time-Chat-App) → MERN stack + WebSockets for instant messaging.   
